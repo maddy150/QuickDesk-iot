@@ -147,6 +147,6 @@ class QuickDeskApp:
 
 
 if __name__ == "__main__":
-    app_root = tk.Tk()
+    app_root = tk.Tk()git config --global user.email "your-email@example.com"
     QuickDeskApp(app_root)
     app_root.mainloop()
